@@ -13,7 +13,7 @@ setup(
   version = '0.1',
   description = 'A NSGA-II implementation',
   long_description='A NSGA-II implementation',
-  url='https://github.com/baopng/NSGA-II',
+  url='https://github.com/amrondonp/NSGA-II',
   author='Andres Rondon',
   author_email='amrondonp@gmail.com',
   packages = find_packages(exclude=['contrib', 'docs', 'tests']),
