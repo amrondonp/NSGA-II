@@ -1,4 +1,4 @@
-from nsga2.population import Population
+from libnsga2.population import Population
 import random
 
 class NSGA2Utils:

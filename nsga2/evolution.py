@@ -1,5 +1,5 @@
-from nsga2.utils import NSGA2Utils
-from nsga2.population import Population
+from libnsga2.utils import NSGA2Utils
+from libnsga2.population import Population
 
 class Evolution:
 
