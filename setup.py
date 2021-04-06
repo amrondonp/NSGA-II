@@ -10,7 +10,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
 
 setup(
   name = 'libnsga2',
-  version = '0.1',
+  version = '0.1.1',
   description = 'A NSGA-II implementation',
   long_description='A NSGA-II implementation',
   url='https://github.com/amrondonp/NSGA-II',
